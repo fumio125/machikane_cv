@@ -4,7 +4,7 @@
 
 [poster.pdf](poster.pdf) を印刷して使ってください。
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/fumio125/machikane_cv/blob/main/keypoint.ipynb) [実行用ノートブック](keypoint.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/machikane_cv/blob/main/keypoint.ipynb) [実行用ノートブック](keypoint.ipynb)
 
 
 ## MeshroomをGoogle Colabで動かす
